@@ -1,9 +1,9 @@
 {
   "characters": [
     {
-      "name": "Brad Pitt",
-      "occupation": "Actor",
-      "weapon": "Blonde",
+      "name": "Curro",
+      "occupation": "Teacher",
+      "weapon": "Flujo",
       "cartoon": false,
       "id": 3
     },
@@ -36,9 +36,9 @@
       "id": 7
     },
     {
-      "name": "asda",
-      "occupation": "asd",
-      "weapon": "asdas",
+      "name": "storm",
+      "occupation": "storm",
+      "weapon": "storm",
       "cartoon": false,
       "id": 8
     },
@@ -55,6 +55,13 @@
       "weapon": "poppo",
       "cartoon": false,
       "id": 10
+    },
+    {
+      "name": "asdasdasd",
+      "occupation": "asdasd",
+      "weapon": "asdasd",
+      "cartoon": false,
+      "id": 11
     }
   ]
 }

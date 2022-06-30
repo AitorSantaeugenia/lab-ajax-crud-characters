@@ -1,8 +1,1 @@
-- Fork
-- Clone 
-- npm i -g json-server
-- npm i axios
-- json-server --watch db.json --port 8000
 
-- Chrome -> http://localhost:8000/characters
-- Open postman -> http://localhost:8000/characters
